@@ -2,3 +2,9 @@
 data/raw/
 *.sav
 data/raw/
+# Ignorar bases de datos pesadas
+data/raw/
+data/processed/
+*.pkl
+*.sav
+*.parquet
