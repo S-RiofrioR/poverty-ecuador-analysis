@@ -1,0 +1,11 @@
+=================================================================
+        REPORTE DE POBREZA MULTIDIMENSIONAL - ECUADOR 2023       
+=================================================================
+
+Área Geográfica Tasa de Pobreza Multidimensional
+     Urbana                   0.0%              
+      Rural                   0.0%              
+
+=================================================================
+Nota: Cálculos realizados bajo la metodología de Alkire-Foster.
+Fuente de datos: Microdatos ENEMDU - INEC.
